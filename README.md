@@ -19,8 +19,8 @@ Meet Chirper, a Twitter-like microblogging app you'll build from scratch.
 This command installs PHP dependencies via Composer and sets up the environment:
 
 ```bash
-git clone https://github.com/maxheong54/php-project-9.git
-cd php-project-9
+git clone https://github.com/maxheong54/chirper.git
+cd chirper
 make install
 ```
 
